@@ -4,4 +4,4 @@ A demo on how to achieve spoiler text formatting on Android.
 
 Article: TODO
 
-![1](./images/1.JPG)
+<img src="./images/1.JPG" width="400" />
